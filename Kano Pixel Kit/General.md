@@ -1,0 +1,3 @@
+# General
+
+There is a company that seems to have fizzled out called Kano. They created several STEM type products one of which was the Pixel Kit. Do to the company fizzling the software needed to run the Pixel Kit is no longer readily available. Due to this issue we have taken our device to the next level. That level being MicroPython. Here you will find a rough set of notes to play with a device that is no longer in it's prime.
